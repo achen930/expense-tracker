@@ -15,6 +15,7 @@
 	},
 	"dependencies": {
 		"@hono/zod-validator": "^0.4.1",
+		"@kinde-oss/kinde-node-express": "^1.6.0",
 		"hono": "^4.6.9",
 		"zod": "^3.23.8"
 	}
